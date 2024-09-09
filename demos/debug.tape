@@ -1,5 +1,5 @@
 
-Output debug.mp4
+Output debug.gif
 
 Set TypingSpeed 50ms
 

@@ -22,7 +22,7 @@ const conversation = new ConversationManager(config.configData.openai.token);
 conversation.writeMessage(
     "system",
     tabChomp`
-        You are an embedded debugging client.
+        You are a debugging client embedded into the terminal.
         You can ask questions, execute code, and save files.
 
         Here are some additional instructions:
